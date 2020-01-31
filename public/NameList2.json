@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Tom",
+    "lastName": "Jones",
+    "age": 19
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Peterson",
+    "age": 44
+  },
+  {
+    "firstName": "James",
+    "lastName": "Patterson",
+    "age": 87
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Winters",
+    "age": 62
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Summers",
+    "age": 15
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Griffith",
+    "age": 6
+  }
+]
